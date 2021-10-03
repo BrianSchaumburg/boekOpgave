@@ -11,7 +11,7 @@ public class UitvoerKlasse {
             System.out.println(ex.getMessage());
         }
         finally {
-            System.out.println("Het pgoramma is afgelopen. ");
+            System.out.println("Het programma is afgelopen. ");
         }
 
     }
